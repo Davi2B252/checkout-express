@@ -46,7 +46,7 @@ let valorComDesconto = valorOriginal - desconto;
     let frete = 0;
     
     // ESCREVA SEU IF / ELSE AQUI:
-if (valorComDesconto >=100) {
+if (valorComDesconto >= 100) {
     frete = 0;
 }  else {
     frete = 15;
